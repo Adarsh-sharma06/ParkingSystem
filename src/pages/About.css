@@ -1,0 +1,32 @@
+/* About.css */
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App-header {
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.full-page-fieldset {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.full-page-iframe {
+  width: 100vw;
+  height: 100vw;
+  border: none;
+}
