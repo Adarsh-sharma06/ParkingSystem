@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84caff77.css",
+    "main.js": "/static/js/main.a030e5a7.js",
+    "static/js/787.146b4e24.chunk.js": "/static/js/787.146b4e24.chunk.js",
+    "static/media/smart-parking-image.jpg": "/static/media/smart-parking-image.afbf98273072739b6318.jpg",
+    "static/media/SMART-PARK INNOVATIONS.pdf": "/static/media/SMART-PARK INNOVATIONS.5bfec6095e90be5c9b6b.pdf",
+    "static/media/passport-photo-dhruvi.jpg": "/static/media/passport-photo-dhruvi.9dc4db966735292efc8c.jpg",
+    "static/media/passport-photo-nirbhay.jpg": "/static/media/passport-photo-nirbhay.08b624801439c8d72823.jpg",
+    "static/media/passport-photo-aditi.jpg": "/static/media/passport-photo-aditi.af09bb03104f0217643f.jpg",
+    "static/media/passport-photo-stuti.jpg": "/static/media/passport-photo-stuti.b20ba794e8b9f4d97da8.jpg",
+    "static/media/passport-photo-adarsh.jpg": "/static/media/passport-photo-adarsh.4e84c65abaebe7a98e81.jpg",
+    "static/media/passport-photo-yash.jpg": "/static/media/passport-photo-yash.7710d7a5591cb7639cd2.jpg",
+    "index.html": "/index.html",
+    "main.84caff77.css.map": "/static/css/main.84caff77.css.map",
+    "main.a030e5a7.js.map": "/static/js/main.a030e5a7.js.map",
+    "787.146b4e24.chunk.js.map": "/static/js/787.146b4e24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84caff77.css",
+    "static/js/main.a030e5a7.js"
+  ]
+}
